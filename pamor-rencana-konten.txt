@@ -1,0 +1,10 @@
+RENCANA KONTEN YOUTUBE PARIS MORIDU
+
+-Git & github
+  *Apa itu git & github
+  *Bekerja dengan github
+  *Github : branch
+  *Github : Fork
+-HTML Dasar
+-OOP Dasar pada PHP
+-Dasar Pemrograman dengan Javascript
