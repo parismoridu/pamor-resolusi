@@ -1,0 +1,6 @@
+RENCANA KONTEN YOUTUBE PARIS MORIDU
+
+-Git & github
+-HTML Dasar
+-OOP Dasar pada PHP
+-Dasar Pemrograman dengan Javascript
