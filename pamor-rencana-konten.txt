@@ -8,6 +8,11 @@ RENCANA KONTEN YOUTUBE PARIS MORIDU
 -CSS Dasar
   *background
   *selector
+  *Anatomi CSS
+  *Penempatan CSS
+  *Font Styling
+  *Text Styling
 -HTML Dasar
 -Dasar Pemrograman dengan Javascript
 -codingneter
+-Python
