@@ -6,6 +6,11 @@ RENCANA KONTEN YOUTUBE PARIS MORIDU
   *Github : branch
   *Github : Fork
 -CSS Dasar
+  *Anatomi CSS
+  *Penempatan CSS
+  *Font Styling
+  *Text Styling
 -HTML Dasar
 -OOP Dasar pada PHP
 -Dasar Pemrograman dengan Javascript
+-Python
