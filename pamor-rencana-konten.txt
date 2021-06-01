@@ -5,6 +5,7 @@ RENCANA KONTEN YOUTUBE PARIS MORIDU
   *Bekerja dengan github
   *Github : branch
   *Github : Fork
+-CSS Dasar
 -HTML Dasar
 -OOP Dasar pada PHP
 -Dasar Pemrograman dengan Javascript
